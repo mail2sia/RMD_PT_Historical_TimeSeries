@@ -1,0 +1,20 @@
+# core
+requests>=2.31.0
+python-dateutil>=2.9.0
+lxml>=5.2.2
+beautifulsoup4>=4.12.3
+
+# OpenAlex client (archived but still installable)
+openalexapi @ git+https://github.com/dpriskorn/OpenAlexAPI.git@master#egg=openalexapi
+pydantic>=2.11.7
+
+# alternatives you might also want (not required; only if you decide to switch)
+# pyalex>=0.15.0
+
+# concurrency & utils
+tqdm>=4.66.4
+
+
+regex>=2023.6.8
+backoff>=2.2.1
+
