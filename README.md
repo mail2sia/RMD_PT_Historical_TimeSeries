@@ -270,4 +270,18 @@ Before making this repository public:
 
 ## License
 
+MIT License
+
+## Citation
+
+If you use this repository, please cite it as:
+
+```bibtex
+@software{br_mtgnn_2026,
+  title  = {Long-horizon Forecasting for Rare Mental Health via the Co-evolution of Disorders and Technologies in Multisource Temporal Graphs},
+  author = {Ahsan, Shakil Ibne and Yoo, Paul D. and Han, Dongwoon and Damiani, Ernesto},
+  year   = {2026},
+  url    = {https://github.com/yourusername/BR_MTGNN}
+}
+```
 This repository includes an MIT `LICENSE` file.
